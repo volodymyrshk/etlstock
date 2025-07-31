@@ -1,0 +1,23 @@
+# Ignore Git and IDE folders
+.git/
+.idea/
+.vscode/
+
+# Ignore the virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local data and config files
+data/
+output/
+config/config.ini
+*.db
+
+# Ignore documentation and other artifacts
+README.md
+Dockerfile
+.gitignore
+.dockerignore

@@ -1,0 +1,5 @@
+[alpha_vantage]
+api_key = YOUR_API_KEY
+
+[database]
+db_name = stock_data.db
